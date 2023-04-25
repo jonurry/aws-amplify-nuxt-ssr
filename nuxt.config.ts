@@ -5,8 +5,8 @@ export default defineNuxtConfig(
       "/assets/styles/fonts.css", 
       "/assets/styles/global-styles.css"
     ],
-    nitro: {
-      preset: 'aws-lambda'
-    }
+    // nitro: {
+    //   preset: 'aws-lambda'
+    // }
   }
 );
